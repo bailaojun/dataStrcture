@@ -23,6 +23,7 @@ public class Solution2 {
                     break;
                 }else{
                     s =  s.substring(0,s.length()-1);
+                    System.out.println("别人修改了这里");
                 }
             }
 
