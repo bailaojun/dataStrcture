@@ -23,7 +23,7 @@ public class Solution2 {
                     break;
                 }else{
                     s =  s.substring(0,s.length()-1);
-                    System.out.println("别人的提交");
+                    System.out.println("别人的提交记录");
                 }
             }
 
