@@ -19,6 +19,7 @@ public class Solution2 {
         for(int i =1;i<strs.length;i++){
             for(int j = 0;j<s.length();j++){
                 if(strs[i].startsWith(s)){
+                    System.out.println("j = " + j);
                     System.out.println(s);
                     break;
                 }else{
